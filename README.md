@@ -1,4 +1,4 @@
-# Simple Database Management System in C
+# Pathfinding Algorithms and Visualization in Gridworld
 This project implements several pathfinding algorithms in a gridworld environment, including BFS, Forward A* with different biases, Backward A*, and Adaptive A*. The algorithms are visualized using Matplotlib animations, providing insight into how the paths are computed.
 
 Key Features:
