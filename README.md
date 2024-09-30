@@ -35,4 +35,4 @@ Commands to Run:
 - The performance of each algorithm is measured and printed in seconds.
 2. Visualizing the Algorithms:
 - As the algorithms run, animated visualizations are generated to depict how they traverse the gridworld and find paths.
-- To simulate the result of 50 different gridworlds in a few seconds, use Pathfinding_Algorithms_Simulations.py
+- To simulate the result of 50 different gridworlds in a few seconds, use Pathfinding_Algorithms_Simulations.py.
