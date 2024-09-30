@@ -8,7 +8,7 @@ Key Features:
 - *Forward A (Large and Small Bias)**: A heuristic-based search where the priority can be adjusted for different biases.
 - Backward A*: Similar to A* but searches from the goal towards the start.
 - Adaptive A*: A dynamic version of A* that adjusts based on past exploration.
-- Matplotlib Animations: The computed paths are visualized with step-by-step animations to better understand the behavior of each algorithm.
+- Matplotlib Animations: The computed paths are visualized with step-by-step animations to understand each algorithm behavior better.
 - Performance Comparison: The execution time of each algorithm is measured and displayed.
 
 Pathfinding Algorithms Overview:
